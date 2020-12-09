@@ -20,7 +20,7 @@ class Resources extends Component {
               <Col md = {4}><img src={require("../public/github_logo.png")} style={{width: "140px", paddingBottom: "30px"}}></img></Col>
               <Col md = {8}>
                 <h3><b>Course Content</b></h3>
-                <p>See out Github for an up-to-date version of the course syllabus, content, and homeworks.</p>
+                <p>See our Github for an up-to-date version of the course syllabus, content, and homeworks.</p>
               </Col>
             </Row>
             </Button>
