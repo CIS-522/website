@@ -1,5 +1,6 @@
 import React from 'react';
 import Dev from './components/dev.js';
+import NotFound from './components/notfound.js';
 import ScrollToTop from './components/scrolltotop.js';
 import {HashRouter as Router, Route} from 'react-router-dom';
 import './App.css';
@@ -11,6 +12,7 @@ function App() {
       <ScrollToTop/>
       <div>
         <Route path="/" exact component={Dev} />
+        <Route path="/not-found" exact component={NotFound} />
       </div>
     </Router>
   );
