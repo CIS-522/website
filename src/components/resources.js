@@ -15,7 +15,7 @@ class Resources extends Component {
         <Row style={{paddingTop: "2%"}}>
 
           <Col md = {6} style={{paddingTop: "30px"}}>
-            <Button variant = "outline-dark" href = {process.env.PUBLIC_URL + "/#/not-found"} target="blank_" style={{textAlign:"left", width: "100%", height: "100%", padding: "5%"}}>
+            <Button variant = "outline-dark" href = {"https://github.com/CIS-522/course-content/tree/main/tutorials"} target="blank_" style={{textAlign:"left", width: "100%", height: "100%", padding: "5%"}}>
             <Row style={{backgroundColor: "rgba(0, 0, 0, 0)"}}>
               <Col md = {4}><img src={require("../public/github_logo.png")} style={{width: "140px", paddingBottom: "30px"}}></img></Col>
               <Col md = {8}>
@@ -27,12 +27,12 @@ class Resources extends Component {
           </Col>
 
           <Col md = {6} style={{paddingTop: "30px"}}>
-            <Button variant = "outline-dark" href = {process.env.PUBLIC_URL + "/#/not-found"} target="blank_" style={{textAlign:"left", width: "100%", height: "100%", padding: "5%"}}>
+            <Button variant = "outline-dark" href = {"https://cis522students.slack.com/"} target="blank_" style={{textAlign:"left", width: "100%", height: "100%", padding: "5%"}}>
             <Row style={{backgroundColor: "rgba(0, 0, 0, 0)"}}>
-              <Col md = {4}><img src={require("../public/piazza_logo.png")} style={{width: "100px", paddingBottom: "30px"}}></img></Col>
+              <Col md = {4}><img src={require("../public/slack_logo.png")} style={{width: "100px", paddingBottom: "30px"}}></img></Col>
               <Col md = {8}>
-                <h3><b>Q&A</b></h3>
-                <p>Have a Question? No problem, we have you covered. Check out our Piazza!</p>
+                <h3><b>Slack</b></h3>
+                <p>This is where our community lives. Check out our Slack!</p>
               </Col>
             </Row>
             </Button>
@@ -43,10 +43,10 @@ class Resources extends Component {
           <Col md = {6} style={{paddingTop: "30px"}}>
             <Button variant = "outline-dark" href = {process.env.PUBLIC_URL + "/#/not-found"} target="blank_" style={{textAlign:"left", width: "100%", height: "100%", padding: "5%"}}>
             <Row style={{backgroundColor: "rgba(0, 0, 0, 0)"}}>
-              <Col md = {4}><img src={require("../public/crowdcast_logo.png")} style={{width: "120px", paddingBottom: "30px"}}></img></Col>
+              <Col md = {4}><img src={require("../public/zoom-logo.png")} style={{width: "120px", paddingBottom: "30px"}}></img></Col>
               <Col md = {8}>
-                <h3><b>Live Lectures</b></h3>
-                <p>Head on over to Crowdcast to watch lectures live!</p>
+                <h3><b>Live Q&A</b></h3>
+                <p>Head on over to Zoom to watch lectures live!</p>
               </Col>
             </Row>
             </Button>
