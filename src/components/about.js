@@ -26,6 +26,7 @@ class About extends Component {
           deconstruct the hype by teaching deep learning theories, models, skills, 
           and applications that are useful for applications. Here, we will shed light
           on the methods behind the magic of Deep Learning. 
+          With a welcome from Konrad and Lyle.
           </p>
         </Col>]
     
