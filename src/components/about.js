@@ -20,13 +20,13 @@ class About extends Component {
           <p>
           Deep learning techniques now touch on data systems of all varieties.<br/><br/>
           Sometimes, deep learning is a product; sometimes, deep learning optimizes 
-          a pipeline; sometimes, deep learning provides critical insights; sometimes, 
-          deep learning sheds light on neuroscience.<br/><br/>
+          a pipeline; sometimes, deep learning provides critical insights.<br/><br/>
           The purpose of this course is to 
           deconstruct the hype by teaching deep learning theories, models, skills, 
           and applications that are useful for applications. Here, we will shed light
-          on the methods behind the magic of Deep Learning. 
-          With a welcome from Konrad and Lyle.
+          on the methods behind the magic of Deep Learning. But we don't stop there: We further
+          look into the societal implications of deep learning and how we can design more ethical
+          algorithms. Excited? We are, too! 
           </p>
         </Col>]
     
