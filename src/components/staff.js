@@ -9,9 +9,19 @@ class Staff extends Component {
   render() {
 
     var staff = [
-      {name: "Subject Zero", title: "TA", email: "email@seas", oh: "65 Million BCE 7-9P", image: require("../public/dino2.png")},   
-      {name: "Subject Zero", title: "TA", email: "email@seas", oh: "65 Million BCE 7-9P", image: require("../public/dino2.png")}, 
-      {name: "Subject Zero", title: "TA", email: "email@seas", oh: "Mondays 5-6P", image: require("../public/dino2.png")},    
+      {name: "Konrad Körding", title: "Professor", email: "email@seas", oh: "TBD", image: require("../public/dino2.png")},   
+      {name: "Lyle Ungar", title: "Professor", email: "email@seas", oh: "TBD", image: require("../public/dino2.png")}, 
+      {name: "Ann-Katrin Reuel", title: "Lead TA", email: "akreuel [at] seas.upenn.edu", oh: "TBD", image: require("../public/dino2.png")},    
+      {name: "Aditya Singh", title: "TA", email: "adiprs [at] seas.upenn.edu", oh: "TBD", image: require("../public/dino2.png")},  
+      {name: "Felipe Parodi", title: "TA", email: "fparodi [at] pennmedicine.upenn.edu", oh: "TBD", image: require("../public/dino2.png")},  
+      {name: "Hannah Horng", title: "TA", email: "hhorng [at] seas.upenn.edu", oh: "TBD", image: require("../public/dino2.png")},  
+      {name: "Harsh Goel", title: "TA", email: "harshg99 [at] seas.upenn.edu", oh: "TBD", image: require("../public/dino2.png")},  
+      {name: "Kausik Sivakumar", title: "TA", email: "kausik [at] seas.upenn.edu", oh: "TBD", image: require("../public/dino2.png")},  
+      {name: "Kevin Liang", title: "TA", email: "kevliang [at] sas.upenn.edu", oh: "TBD", image: require("../public/dino2.png")},  
+      {name: "Mrigank Saksena", title: "TA", email: "mrigank [at] seas.upenn.edu", oh: "TBD", image: require("../public/dino2.png")},  
+      {name: "Olivia Sandvold", title: "TA", email: "sandvold [at] seas.upenn.edu", oh: "TBD", image: require("../public/dino2.png")},  
+      {name: "Tianyi Zhang", title: "TA", email: "zty [at] upenn.edu", oh: "TBD", image: require("../public/dino2.png")},  
+      {name: "Yifei Li", title: "TA", email: "liyifei [at] seas.upenn.edu", oh: "TBD", image: require("../public/dino2.png")},  
     ]
     var stafflist = staff.map((i) => {
       return (
