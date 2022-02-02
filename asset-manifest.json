@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/website/static/css/main.9d01a3f7.chunk.css",
-    "main.js": "/website/static/js/main.a0759b87.chunk.js",
-    "main.js.map": "/website/static/js/main.a0759b87.chunk.js.map",
+    "main.js": "/website/static/js/main.1f7a35ae.chunk.js",
+    "main.js.map": "/website/static/js/main.1f7a35ae.chunk.js.map",
     "runtime-main.js": "/website/static/js/runtime-main.9b825fe6.js",
     "runtime-main.js.map": "/website/static/js/runtime-main.9b825fe6.js.map",
     "static/css/2.73a3c38b.chunk.css": "/website/static/css/2.73a3c38b.chunk.css",
-    "static/js/2.62ecae8c.chunk.js": "/website/static/js/2.62ecae8c.chunk.js",
-    "static/js/2.62ecae8c.chunk.js.map": "/website/static/js/2.62ecae8c.chunk.js.map",
+    "static/js/2.2b01c21b.chunk.js": "/website/static/js/2.2b01c21b.chunk.js",
+    "static/js/2.2b01c21b.chunk.js.map": "/website/static/js/2.2b01c21b.chunk.js.map",
     "index.html": "/website/index.html",
-    "precache-manifest.faf8c6bb0256af20c77e3d5dc7814eaf.js": "/website/precache-manifest.faf8c6bb0256af20c77e3d5dc7814eaf.js",
+    "precache-manifest.fb8b57e600fa25c5647bb9cda43026e3.js": "/website/precache-manifest.fb8b57e600fa25c5647bb9cda43026e3.js",
     "service-worker.js": "/website/service-worker.js",
     "static/css/2.73a3c38b.chunk.css.map": "/website/static/css/2.73a3c38b.chunk.css.map",
     "static/css/main.9d01a3f7.chunk.css.map": "/website/static/css/main.9d01a3f7.chunk.css.map",
-    "static/js/2.62ecae8c.chunk.js.LICENSE.txt": "/website/static/js/2.62ecae8c.chunk.js.LICENSE.txt",
+    "static/js/2.2b01c21b.chunk.js.LICENSE.txt": "/website/static/js/2.2b01c21b.chunk.js.LICENSE.txt",
     "static/media/Aditya.png": "/website/static/media/Aditya.038fc5d3.png",
     "static/media/Anka.png": "/website/static/media/Anka.b5ff58a1.png",
     "static/media/Ben.png": "/website/static/media/Ben.de8fc910.png",
@@ -22,6 +22,7 @@
     "static/media/Harry.png": "/website/static/media/Harry.9ec3b6b5.png",
     "static/media/Harsh.png": "/website/static/media/Harsh.92f49cdc.png",
     "static/media/Kausik.png": "/website/static/media/Kausik.c104636a.png",
+    "static/media/Kavish.png": "/website/static/media/Kavish.c6be305e.png",
     "static/media/Kevin.png": "/website/static/media/Kevin.f273e394.png",
     "static/media/Konrad.png": "/website/static/media/Konrad.be33a738.png",
     "static/media/Lyle.png": "/website/static/media/Lyle.d702edc6.png",
@@ -40,8 +41,8 @@
   "entrypoints": [
     "static/js/runtime-main.9b825fe6.js",
     "static/css/2.73a3c38b.chunk.css",
-    "static/js/2.62ecae8c.chunk.js",
+    "static/js/2.2b01c21b.chunk.js",
     "static/css/main.9d01a3f7.chunk.css",
-    "static/js/main.a0759b87.chunk.js"
+    "static/js/main.1f7a35ae.chunk.js"
   ]
 }
